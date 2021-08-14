@@ -1,0 +1,1 @@
+reemplazar texto grande por texto pequeño y vicevesa con JS interactivo.
