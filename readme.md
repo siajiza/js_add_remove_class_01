@@ -1,1 +1,1 @@
-reemplazar texto grande por texto pequeño y vicevesa con JS interactivo.
+#How add and remove elements from the html document using javascript.
