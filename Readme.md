@@ -3,9 +3,11 @@
 **Behavior**
 
     On the page we´ll watch the text "Hi there", in one color and font-size.
-    If we hover with the point mouse over the text, this pointer will change to a small hand that it indicate us to click on there.
+    If we hover with the point mouse over the text, this pointer will change 
+    to a small hand that it indicate us to click on there.
 
-    When we click on it, the color and the font-size will change completedly. And if you click on it again, will recover the origin form.
+    When we click on it, the color and the font-size will change completedly. 
+    And if you click on it again, will recover the origin form.
 
     We part first, from three language code locations;
 
@@ -13,7 +15,8 @@
     -css 
     -js
     
-    Each one are going to contribute with part of the code to create interact between them.
+    Each one are going to contribute with part of the code 
+    to create interact between them.
 
 _To find this interact, we need to call with specific class and id names inside of each element, regardless of whether it is html or css. And from javascript we call this elements to the action._
 
